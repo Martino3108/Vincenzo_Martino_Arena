@@ -32,7 +32,3 @@
 - [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME/)  
 - 📧 your.email@example.com  
 - **GitHub Portfolio:** [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
----
-
-> 💡 **Tip:** Keep this portfolio updated whenever you publish a new project to showcase your latest skills.
