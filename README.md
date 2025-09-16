@@ -9,9 +9,8 @@ Here you can explore a curated selection of my featured projects.
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
-| **Bond Risk Analysis** | Pricing model and default risk evaluation using Monte Carlo simulations | Python, NumPy, Pandas, Matplotlib | [ Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| **Anomaly Detection Autoencoder** | Detecting anomalies in financial time series via deep autoencoder | PyTorch, Scikit-learn, PCA | [ Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
-| **Volatility Forecast LSTM** | LSTM model for 10-minute future volatility prediction | Python, TensorFlow, Keras | [ Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Anomaly Detection Models** | Detecting anomalies in financial time series via several machine learnig models | PyTorch, Scikit-learn, PCA | [ Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
+| **Realized Volatility Forecasting** | LSTM neural network for short term future realized volatility and comparison with statistical regression | Python, TensorFlow, Keras | [ Repo](https://github.com/YOUR_USERNAME/REPO_NAME) |
 
 ---
 
