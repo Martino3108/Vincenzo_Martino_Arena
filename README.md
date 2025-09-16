@@ -10,7 +10,7 @@ Here you can explore a selection of my featured projects.
 | Project | Description | Tech Stack | Link |
 |--------|-------------|-----------|------|
 | **Anomaly Detection Project** | Detecting anomalies in financial time series via several machine learnig models | PyTorch, Scikit-learn, PCA | [ Repo](https://github.com/Martino3108/Anomaly_Detection_Project) |
-| **Realized Volatility Forecasting** | LSTM neural network for short term future realized volatility and comparison with statistical regressions | Python, TensorFlow, Keras | [ Repo]((https://github.com/Martino3108/Volatility_Forecasting_Project)) |
+| **Realized Volatility Forecasting** | LSTM neural network for short term future realized volatility and comparison with statistical regressions | Python, TensorFlow, Keras | [ Repo](https://github.com/Martino3108/Volatility_Forecasting_Project) |
 
 ---
 
