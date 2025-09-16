@@ -1,7 +1,7 @@
 # I'm Martino
 
 Passionate about **Quantitative Finance**, **Machine Learning**, and **Data Science**.  
-Here you can explore a curated selection of my featured projects.
+Here you can explore a selection of my featured projects.
 
 ---
 
