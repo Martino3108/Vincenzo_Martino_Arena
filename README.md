@@ -17,6 +17,7 @@ Here you can explore a curated selection of my featured projects.
 
 ## Technical Skills
 
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Machine%20Learning-orange?logo=tensorflow)
@@ -26,7 +27,7 @@ Here you can explore a curated selection of my featured projects.
 
 ---
 
-##Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/vincenzo-martino-arena/)  
 - martino.arena@gmail.com
