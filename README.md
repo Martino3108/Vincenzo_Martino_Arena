@@ -9,7 +9,7 @@ Here you can explore a selection of my featured projects.
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Lookback Option Pricing** | Pricing floating strike lookback options under Black-Scholes using a C++ engine connected with a VBA interface via Dynamic Link Library| C++, VBA, Excel | [Repo](https://github.com/Martino3108/Volatility_Forecasting_Project) |
+| **Lookback Option Pricing** | Pricing floating strike lookback options under Black-Scholes using a C++ engine connected with a VBA interface via Dynamic Link Library| C++, VBA, Excel | [Repo](https://github.com/Martino3108/Look_Back_Pricing) |
 | **Anomaly Detection Project** | Detecting anomalies in financial time series via Autoencoders | PyTorch, Scikit-learn | [Repo](https://github.com/Martino3108/Anomaly_Detection_Project) |
 | **Realized Volatility Forecasting** | LSTM neural network for short term future realized volatility and comparison with statistical regressions | Python, R, TensorFlow | [Repo](https://github.com/Martino3108/Volatility_Forecasting_Project) |
 
