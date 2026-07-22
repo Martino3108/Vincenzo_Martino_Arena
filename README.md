@@ -9,7 +9,7 @@ Here you can explore a selection of my featured projects in Quantitative Finance
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **LV/LSV Library with Buehler Discrete Dividends** | Incorporated the Buehler discrete-dividends model into QuantLib's local volatility calibration. Implemented an efficient LSV Monte Carlo scheme (van der Stoep et al., 2014) with nonparametric estimation of the leverage function to price path-dependent payoffs. | C++, Python | [Repo](https://github.com/Martino3108/LV-LSV-Library-with-Buehler-Discrete-Dividends) |
-| **Lookback Option Pricing** | Built a VBA interface and a C++ pricing engine, connected them via Dynamic Link Library, Used to price Floating Strike Lookback options under a simple Black & Scholes Model| C++, VBA, Excel | [Repo](https://github.com/Martino3108/Look_Back_Pricing) |
+| **Lookback Option Pricing with VBA interface** | Built a VBA interface and a C++ pricing engine, connected them via Dynamic Link Library, Used to price Floating Strike Lookback options under a simple Black & Scholes Model| C++, VBA, Excel | [Repo](https://github.com/Martino3108/Look_Back_Pricing) |
 | **Anomaly Detection Project** | Explored Anomalies detection in financial time series via Autoencoders and other Machine Learning models | PyTorch, Scikit-learn | [Repo](https://github.com/Martino3108/Anomaly_Detection_Project) |
 
 ---
