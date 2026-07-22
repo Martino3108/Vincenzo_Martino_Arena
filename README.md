@@ -1,7 +1,6 @@
-# I'm Martino
+# I'm Vincenzo Martino Arena
 
-Passionate about **Quantitative Finance** and **Machine Learning**.  
-Here you can explore a selection of my featured projects.
+Here you can explore a selection of my featured projects in Quantitative Finance.
 
 ---
 
